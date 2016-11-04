@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-
-
 <item>
-<title>[COLOR white]--- New Zealand Freeview ---[/COLOR]</title>
-<link>http://xxxx</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white]TV 1  -Plus 1[/COLOR]</title>
+<title>[COLOR white]TV 1[/COLOR]</title>
 <link>http://livestream.etv.org.nz/tv1.m3u8?t=E.485d1bf83375b9f69e3281c46c4bf34d.1478258647.93a79190316fa8250d042a3a83e6e265d1d32090</link>
 <thumbnail>https://pbs.twimg.com/profile_images/423230339905908736/8ERAeGPj_400x400.png</thumbnail>
 </item>
